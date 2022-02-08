@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ce934fb-7abf-4c6e-94e4-50d34dc3b7cc": {
+      "ProjectGuid": "1ce934fb-7abf-4c6e-94e4-50d34dc3b7cc",
+      "DisplayName": "Authorization.IdentityServer",
+      "ColorIndex": 0
+    },
+    "8cf6903a-b581-4a5a-a051-b46bdce1a5fa": {
+      "ProjectGuid": "8cf6903a-b581-4a5a-a051-b46bdce1a5fa",
+      "DisplayName": "Authorization.JavaScript",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
